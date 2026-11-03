@@ -1,28 +1,17 @@
-# Hi, I'm Eleni Iacovides 👋 
-### Data Science + AI Agents | Pretoria
+# Hi, I'm Eleni Iacovides 👋 | Architect @ Ozymandias Vault
 
-I build location intelligence systems — satellite data + AI agents + automation.
+**Data Science + AI Agents | Pretoria, South Africa**
+🔗 [g.dev/eleniiacovides](https://g.dev/eleniiacovides) | [X @Elacovides78361](https://x.com/Elacovides78361)
 
-**Countess Project** — Triangulation engine using Earth Engine + ADK + n8n
+> **I build location intelligence systems — satellite data + AI agents + automation.**
+> **1,460 Google Learning Badges | Magic Wand Gesture AI (TensorFlow Lite)**
 
----
+### 🏛️ Currently Building:
+- **Ozymandias Vault** — AI apps that work in SA
+- **Cat-Bots (Androidify fork)** + **Agentic Barista Systems**
+- **Countess Project** — Triangulation engine using Earth Engine
 
-### 🏆 Google Cloud Badges — Earned Oct 21, 2026
+### 🛠️ Stack:
+Gemini Vision | Firebase Studio | Google Cloud ($300 credits) | Arduino + TinyML
 
-✨ **Scaling Data Science with Agents** — Completion Badge — Today 07:49 EDT
-✨ **Generate and Edit Media with Agent Platform** — Completion Badge
-
-🔥 5 Day Streak | 1st Place League | 5 Courses | skills.google
-
----
-
-### 🛠️ My Stack
-
-- **earthengine-api** — Satellite maps & triangulation
-- **adk-python + adk-docs** — AI Agent Development Kit  
-- **n8n-docs** — Workflow automation
-- **androidify** — Creative media agents
-
-*Built on mobile — Updated 08:18 Oct 21*
-
-📍 Pretoria, Gauteng
+Pretoria → Cloud → Satellite → Cat Cafe ☕🐱
