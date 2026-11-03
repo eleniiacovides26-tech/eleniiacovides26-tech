@@ -14,4 +14,7 @@
 ### 🛠️ Stack:
 Gemini Vision | Firebase Studio | Google Cloud ($300 credits) | Arduino + TinyML
 
-Pretoria → Cloud → Satellite → Cat Cafe ☕🐱
+Pretoria → Cloud → Satellite → Cat Cafe ☕🐱---
+🪄 **TODAY - Nov 3, 2026 - 1,460 Badge Unlocked!**
+Built gesture-recognizing 'magic wand' on Arduino with TensorFlow Lite
+🔗 My Google Dev Profile: https://g.dev/eleniiacovides
